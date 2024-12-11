@@ -7,6 +7,6 @@
 <title>이준영 cart jsp</title>
 </head>
 <body>
-	야야호
+	김규빈은 카트라이더를 좋아합니다.
 </body>
 </html>
